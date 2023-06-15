@@ -8,14 +8,11 @@ This repo consist of three tasks from Level-2 of the Oasis Infobytes- Web Develo
 
 # Website Demo Videos
 💡 TASK-1 - CALCULATOR
-
-https://github.com/shruti-sen2004/OIBSIP/assets/115914670/581197a5-2774-4409-9550-ab6725ab14dc
+https://github.com/shruti-sen2004/OIBSIP/assets/115914670/e9063de4-cfe7-4396-9bd0-2cf6a74265d5
 
 💡 TASK-2 - TRIBUTE PAGE
-
-https://github.com/shruti-sen2004/OIBSIP/assets/115914670/27e770ca-3bc1-4f7a-b919-ca62adb193fe
+https://github.com/shruti-sen2004/OIBSIP/assets/115914670/b187e41b-a136-4680-a36c-f1ae23fc2337
 
 💡 TASK-3 - A BASIC TO-DO WEBPAGE
-
-https://github.com/shruti-sen2004/OIBSIP/assets/115914670/3a1a11b6-ceff-4f74-848d-7c4b0531f85a
+https://github.com/shruti-sen2004/OIBSIP/assets/115914670/47021636-6f89-4961-a750-f8b047316937
 
