@@ -2,9 +2,9 @@
 This repo consist of three tasks from Level-2 of the Oasis Infobytes- Web Development and Designing Internship.
 
 # Details
-💡 TASK-1 - CALCULATOR
-💡 TASK-2 - TRIBUTE PAGE
-💡 TASK-3 - A BASIC TO-DO WEBPAGE
+💡 TASK-1 - CALCULATOR <br>
+💡 TASK-2 - TRIBUTE PAGE <br>
+💡 TASK-3 - A BASIC TO-DO WEBPAGE <br>
 
 # Website Demo Videos
 💡 TASK-1 - CALCULATOR
